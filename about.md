@@ -6,7 +6,7 @@ favorite-color: pink
 ---
 
 Page front matter: {{ page.favorite-color }}
-Some information about you!
+I'm new to this, be easy!
 
 ### More Information
 
