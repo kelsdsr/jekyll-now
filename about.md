@@ -10,7 +10,7 @@ I'm new to this, be easy!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A reality TV show junky
 
 ### Contact me
 
