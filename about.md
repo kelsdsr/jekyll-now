@@ -2,8 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+favorite-color: pink
 ---
 
+#{{ page.title }}
+Page front matter: {{ page.favorite-color }}
 Some information about you!
 
 ### More Information
