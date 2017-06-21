@@ -5,7 +5,6 @@ permalink: /about/
 favorite-color: pink
 ---
 
-#{{ page.title }}
 Page front matter: {{ page.favorite-color }}
 Some information about you!
 
